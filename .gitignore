@@ -1,0 +1,24 @@
+# DataSense
+datasense/dataset/*.tar.xz
+datasense/dataset/*.csv
+datasense/dataset/checksums/
+
+# Sklearn's pipeline's caches
+.cache/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+share/jupyter/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# lab.py : script for testing some code snippets
+lab.py
