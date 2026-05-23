@@ -1,0 +1,9 @@
+feature,importance
+network_header-length_std_deviation,0.8682931657910468
+label3,0.35992221855327716
+network_fragmented-packets,0.2895877783610518
+network_header-length_min,0.27231257780797724
+network_fragmentation-score,0.26727151342174715
+network_header-length_avg,0.2632665587644803
+network_header-length_max,0.25627396537532315
+device_name,0.22168019226308422

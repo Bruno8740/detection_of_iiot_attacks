@@ -1,0 +1,9 @@
+feature,importance
+device_name,0.0
+label3,0.0
+network_fragmentation-score,0.0
+network_fragmented-packets,0.0
+network_header-length_avg,0.0
+network_header-length_max,0.0
+network_header-length_min,0.0
+network_header-length_std_deviation,0.0

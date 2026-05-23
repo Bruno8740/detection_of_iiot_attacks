@@ -1,0 +1,4 @@
+model,TP,FP,FN
+logistic_regression,20547,17888,2051
+decision_tree,20184,4305,2414
+random_forest,20527,7183,2071
