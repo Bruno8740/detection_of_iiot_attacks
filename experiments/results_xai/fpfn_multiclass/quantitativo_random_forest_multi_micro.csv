@@ -1,0 +1,9 @@
+Classe Alvo,True Positives (TP),False Positives (FP),False Negatives (FN)
+benign,30702,2464,3498
+bruteforce,399,2002,66
+ddos,3827,55,674
+dos,4230,136,352
+malware,1719,340,169
+mitm,1783,479,235
+recon,6455,445,1990
+web,698,1064,1
