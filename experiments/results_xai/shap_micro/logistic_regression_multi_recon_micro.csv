@@ -1,9 +1,9 @@
-feature,importance
-device_name,0.0
-label3,0.0
-network_fragmentation-score,0.0
+feature,importance_micro
 network_fragmented-packets,0.0
-network_header-length_avg,0.0
-network_header-length_max,0.0
-network_header-length_min,0.0
 network_header-length_std_deviation,0.0
+network_interval-packets,0.0
+network_ip-flags_min,0.0
+network_ip-flags_std_deviation,0.0
+network_mss_min,0.0
+network_mss_std_deviation,0.0
+network_packet-size_min,0.0

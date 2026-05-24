@@ -1,0 +1,9 @@
+feature,TP_SHAP_Dir,FP_SHAP_Dir,FN_SHAP_Dir,FP_minus_TP,FN_minus_TP
+network_fragmentation-score,0.0,0.0,0.0,0.0,0.0
+network_fragmented-packets,0.0,0.0,0.0,0.0,0.0
+network_header-length_avg,-1.7750860587387107e-05,-5.410887413152659e-06,-1.5253762276865344e-05,1.2339973174234447e-05,2.497098310521763e-06
+network_header-length_max,1.7750860587388865e-05,5.410887413153352e-06,1.525376227686725e-05,-1.2339973174235514e-05,-2.497098310521616e-06
+network_header-length_min,0.0,0.0,0.0,0.0,0.0
+network_header-length_std_deviation,0.0,0.0,0.0,0.0,0.0
+network_interval-packets,0.0,0.0,0.0,0.0,0.0
+network_ip-flags_avg,0.0,0.0,0.0,0.0,0.0
