@@ -1,0 +1,6 @@
+feature,importance,Modelo
+network_fragmentation-score,5.340758708718325e-05,DECISION_TREE_MULTI
+network_fragmented-packets,1.4944285512047411e-05,DECISION_TREE_MULTI
+network_header-length_avg,0.0,DECISION_TREE_MULTI
+network_header-length_max,0.0,DECISION_TREE_MULTI
+network_header-length_min,0.0,DECISION_TREE_MULTI

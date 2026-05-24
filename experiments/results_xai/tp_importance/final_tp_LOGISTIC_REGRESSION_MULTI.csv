@@ -1,0 +1,6 @@
+feature,importance,Modelo
+network_fragmented-packets,0.3429453985182728,LOGISTIC_REGRESSION_MULTI
+network_ip-flags_std_deviation,0.2016058252357751,LOGISTIC_REGRESSION_MULTI
+network_interval-packets,0.1540136030983016,LOGISTIC_REGRESSION_MULTI
+network_ip-flags_min,0.1218171103187428,LOGISTIC_REGRESSION_MULTI
+network_header-length_std_deviation,0.0,LOGISTIC_REGRESSION_MULTI

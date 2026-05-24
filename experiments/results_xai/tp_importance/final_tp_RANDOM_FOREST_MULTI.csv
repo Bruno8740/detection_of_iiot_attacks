@@ -1,0 +1,6 @@
+feature,importance,Modelo
+network_header-length_min,0.0005890374865053,RANDOM_FOREST_MULTI
+network_fragmentation-score,0.0002598000153173,RANDOM_FOREST_MULTI
+network_header-length_max,0.0002492542982177,RANDOM_FOREST_MULTI
+network_fragmented-packets,0.0001980012082938,RANDOM_FOREST_MULTI
+network_header-length_avg,0.0001602655286827,RANDOM_FOREST_MULTI
