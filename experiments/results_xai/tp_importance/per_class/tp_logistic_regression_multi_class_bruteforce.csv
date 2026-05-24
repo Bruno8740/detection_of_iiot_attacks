@@ -1,0 +1,9 @@
+feature,importance
+network_fragmented-packets,0.0
+network_header-length_std_deviation,0.0
+network_interval-packets,0.0
+network_ip-flags_min,0.0
+network_ip-flags_std_deviation,0.0
+network_mss_min,0.0
+network_mss_std_deviation,0.0
+network_packet-size_min,0.0

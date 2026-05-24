@@ -1,0 +1,9 @@
+feature,importance
+network_packet-size_min,0.9163445819290731
+network_mss_std_deviation,0.3050668892497262
+network_header-length_std_deviation,0.15183445325723288
+network_fragmented-packets,0.12764531393126086
+network_mss_min,0.10060259504114955
+network_ip-flags_min,0.09859137299431886
+network_ip-flags_std_deviation,0.0962929773274774
+network_interval-packets,0.03631098012785254

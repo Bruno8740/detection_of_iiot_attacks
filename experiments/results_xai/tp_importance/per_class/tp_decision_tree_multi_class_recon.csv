@@ -1,0 +1,9 @@
+feature,importance
+network_interval-packets,0.0038949904977463447
+network_fragmented-packets,0.003371873771075784
+network_header-length_min,0.0025943464938821513
+network_header-length_std_deviation,0.0023016572141923647
+network_header-length_avg,0.0017462951814789377
+network_ip-flags_avg,0.001384379855233038
+network_header-length_max,0.0010100477834164025
+network_fragmentation-score,0.0010064313633535251

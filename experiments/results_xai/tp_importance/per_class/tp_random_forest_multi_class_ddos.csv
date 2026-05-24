@@ -1,0 +1,6 @@
+feature,importance
+network_header-length_min,0.021783037152042606
+network_header-length_max,0.0158496497358646
+network_fragmented-packets,0.013073213984690728
+network_fragmentation-score,0.003888851168653336
+network_header-length_avg,0.0029299195531284784
